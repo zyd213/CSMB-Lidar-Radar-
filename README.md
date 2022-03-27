@@ -11,6 +11,9 @@ High-precision map building is a base function of autonomous driving and robot n
 <img src="pic/car.png", width="800px"/>
 </div>
 
+<div align=center>
+<img src="pic/sys.png", width=90%/>
+</div>
 
 ## 1.2 Fusion algorithm pipline
 <div align=center>
