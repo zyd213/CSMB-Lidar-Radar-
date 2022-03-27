@@ -20,6 +20,7 @@ High-precision map building is a base function of autonomous driving and robot n
 ## 1.3 Experimental results
 <div align="center">
     <img src="pic/result1.png", width="500px"/>
+    <img src="pic/gif1.gif", width=70%/>
 </div>
 # 2. Related paper
 ---
