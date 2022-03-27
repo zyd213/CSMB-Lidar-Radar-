@@ -8,11 +8,11 @@ High-precision map building is a base function of autonomous driving and robot n
 ---
 ## 1.1 Experiment environment and Lidar-Radar system
 <div align=center>
-<img src="pic/car.png", width="800px"/>
+<img src="pic/car.png", width=90%/>
 </div>
 
 <div align=center>
-<img src="pic/sys.png", width=90%/>
+<img src="pic/s.png", width=90%/>
 </div>
 
 ## 1.2 Fusion algorithm pipline
