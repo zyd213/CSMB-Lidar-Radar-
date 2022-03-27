@@ -29,5 +29,5 @@ Cooperative Sensing and Map Building Algorithm Using Lidar and Through-the-Wall 
 
 # 3. Acknowledgments
 Thanks for Livox loam(Lin, J., Zhang, F.: Loam livox: a fast, robust, high-precision Lidar odometry and mapping package for Lidars of small FoV. In: 2020 IEEE International Conference on Robotics and Automation (ICRA), pp. 3126–3131 (2020)). 
-[Livox loam horizon](https://github.com/hku-mars/loam_livox) and 
+[Livox loam](https://github.com/hku-mars/loam_livox) and 
 [Livox mapping](https://github.com/Livox-SDK/livox_mapping).
