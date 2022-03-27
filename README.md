@@ -23,7 +23,8 @@ High-precision map building is a base function of autonomous driving and robot n
 </div>
 
 # 2. Related paper
---
+---
+Cooperative Sensing and Map Building Algorithm Using Lidar and Through-the-Wall Radar
 [CSMB-Lidar-Radar](https://link.springer.com/chapter/10.1007/978-981-16-9492-9_296#citeas)
 
 # 3. Acknowledgments
