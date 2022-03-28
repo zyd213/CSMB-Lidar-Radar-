@@ -1,4 +1,4 @@
-# CSMB-Lidar-Radar
+# [CSMB-Lidar-Radar](https://link.springer.com/chapter/10.1007/978-981-16-9492-9_296#citeas)
 Cooperative Sensing and Map Building Algorithm Using Lidar and Through-the-Wall Radar: Use Lidar(Livox horizon) and Radar(Self made by our research department) to sensor occluded area cooperatively. The work is a preliminary exploration for the area of Lidar-Radar cooperative mapping. Because there is no ready-made similar system, the whole car-system is built by ourselves.
 
 # Abstract：
